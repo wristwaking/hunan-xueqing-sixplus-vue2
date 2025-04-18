@@ -1,7 +1,7 @@
 # 湖南大学问卷调研chat-6升级版机器人前端源码
 湖南大学英语问卷调研chat-6升级版机器人前端源码。基于chat-6机器人重构升级优化。通过vue2搭建前后端分离会话型网站。css兼容手机端机型。使用拟态风格搭建。
 
-链接地址：http://sixplus.xueqing.willwaking.com?mode=1,2,3,4,5,5,7,8
+链接地址：http://sixplus.xueqing.willwaking.com
 
 
 ## 前端 baseURL
