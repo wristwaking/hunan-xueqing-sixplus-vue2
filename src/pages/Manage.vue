@@ -2,7 +2,7 @@
     <div class="container">
         <div class="header">
             <img class="header-logo" src="./../assets/图标.jpg" alt="">
-            <div class="header-title">XUEQING BOT 2024</div>
+            <div class="header-title">XUEQING SIXPLUS BOT 2025</div>
         </div>
         <div class="main">
             <div class="user-data-box">

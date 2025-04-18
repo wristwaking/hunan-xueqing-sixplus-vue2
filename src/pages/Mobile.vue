@@ -2,12 +2,12 @@
     <div class="phone-container">
         <div class="header">
             <img class="header-logo" src="./../assets/图标.jpg" alt="">
-            <div class="header-title">XUEQING BOT 2024</div>
+            <div class="header-title">XUEQING SIXPLUS BOT 2025</div>
             <!-- <a class="header-button">TIMER : {{ setting.timer ? FormatTime(remainingTime) : "不限时" }}</a> -->
         </div>
         <div class="content" v-if="page == 'INIT'">
             <img src="./../assets/图标.jpg" alt="">
-            <div class="content-title">XUEQING BOT</div>
+            <div class="content-title">XUEQING BOT 6.PLUS</div>
             <div class="content-tip">
                 亲爱的同学：<br>欢迎参与本次实验！请按照屏幕上的指示，与AI聊天机器人展开自然流畅的英文对话。保持对话连贯且深入，<span
                     style="color: crimson;">避免中途退出</span>。请尽量<span
